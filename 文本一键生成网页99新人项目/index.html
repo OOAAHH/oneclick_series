@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>99%的新人，没用心做好的50件事 - 岩濑大辅</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="title">99%的新人，没用心做好的50件事</h1>
+            <p class="author">作者：岩濑大辅</p>
+        </header>
+        
+        <main class="content">
+            <section id="introSection" class="intro active">
+                <p>《99%的新人，没用心做好的50件事》是一本帮助职场新人避免常见错误、快速成长的实用指南。本书针对新人最容易犯的50个错误，提供了具体的改进方法和实践建议。</p>
+                
+                <div class="book-visual">
+                    <div class="visual-element">
+                        <i class="fas fa-building"></i>
+                        <h3>职场洞察</h3>
+                        <p>深入剖析职场环境中的隐形规则与期望，帮助新人快速适应并脱颖而出。</p>
+                    </div>
+                    <div class="visual-element">
+                        <i class="fas fa-comments"></i>
+                        <h3>沟通技巧</h3>
+                        <p>掌握专业高效的沟通方法，避免常见的表达误区，建立良好的人际关系。</p>
+                    </div>
+                    <div class="visual-element">
+                        <i class="fas fa-tasks"></i>
+                        <h3>工作方法</h3>
+                        <p>学习科学的工作方法与思维模式，提高效率，让努力产生最大价值。</p>
+                    </div>
+                </div>
+                
+                <div class="book-controls">
+                    <button id="startReadingBtn"><i class="fas fa-book-open"></i> 开始阅读</button>
+                    <button id="viewContentsBtn"><i class="fas fa-list"></i> 查看目录</button>
+                    <button id="importContentBtn"><i class="fas fa-file-import"></i> 导入内容</button>
+                </div>
+            </section>
+            
+            <section id="tableOfContents" class="table-of-contents hidden">
+                <!-- 目录将由JavaScript动态生成 -->
+            </section>
+            
+            <section id="chaptersSection" class="chapters hidden">
+                <!-- 章节内容将由JavaScript动态生成 -->
+            </section>
+            
+            <section id="importSection" class="import-section hidden">
+                <h2>导入书籍内容</h2>
+                <p>从Word文档(.docx)或XML文件自动提取书籍内容，快速生成互动阅读体验。</p>
+                
+                <div class="import-container">
+                    <div class="import-instructions">
+                        <h3>使用说明</h3>
+                        <ol>
+                            <li>选择您的Word文档(.docx)或XML文件</li>
+                            <li>点击"提取内容"按钮</li>
+                            <li>系统将自动解析文件并提取章节内容</li>
+                            <li>提取完成后，可以立即开始阅读体验</li>
+                        </ol>
+                    </div>
+                    
+                    <div class="import-form">
+                        <div class="form-group">
+                            <label for="fileInput">选择文件:</label>
+                            <input type="file" id="fileInput" accept=".xml,.docx" />
+                        </div>
+                        <button id="extractBtn" class="primary-btn"><i class="fas fa-file-import"></i> 提取内容</button>
+                        <div id="extractStatus" class="status-message"></div>
+                    </div>
+                </div>
+                
+                <div class="action-buttons">
+                    <button id="backToIntroBtn"><i class="fas fa-arrow-left"></i> 返回主页</button>
+                </div>
+            </section>
+        </main>
+        
+        <footer class="footer">
+            <p>© 2024 99%的新人，没用心做好的50件事 - 互动版</p>
+        </footer>
+    </div>
+    
+    <div id="scrollTopBtn" class="scroll-top">
+        <i class="fas fa-arrow-up"></i>
+    </div>
+    
+    <script src="js/contentExtractor.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html> 

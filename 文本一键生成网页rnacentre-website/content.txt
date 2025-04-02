@@ -1,0 +1,226 @@
+RNAcentre Handbook
+
+PLEASE READ CAREFULLY
+Welcome to the RNAcentre! We are a team of researchers based at the International Bio-island for computational biology at Guangzhou National Laboratory. We wrote this document to ensure that all new members of RNAcentre and the wider research community have an insight into how our group operates. Here, you will find detailed information about life as a group member, what we expect from our researchers, and the support we can offer to your research development. 
+We hope this document serves as a useful resource throughout your time at the RNAcentre. We expect new members to read this document by the end of your first month of joining our lab. If you have any questions or concerns, your PI or lab manager will be very happy to discuss. We welcome feedback that you may have on this document, and how we can continue to improve researcher experience across the academic spectrum. 
+- The RNAcentre Group 
+
+1. RNAcentre info & rules
+1.1 Vision of RNAcentre
+Vision & Slogan
+The research lab envisions becoming a world-class computational biology laboratory that truly addresses critical issues in biology and medicine. With a mission to focus on respiratory disease research, the lab is dedicated to exploring the fields of single-cell genomics and RNA structure. By utilizing computational biology as a powerful tool, the lab aims to advance the development of RNA therapeutics and stem cell therapies, ultimately contributing to improved healthcare outcomes.
+The lab's slogan, "3R - Responsibility, Reverie, Resilience," reflects its core values and guiding principles. Responsibility signifies the lab's commitment to taking on the important task of finding solutions to pressing biological and medical challenges. Reverie represents the lab's willingness to think big, dream, and imagine new possibilities in the pursuit of scientific breakthroughs. Resilience represents the lab's determination to persist in the face of challenges, to never give up, and to continuously strive for excellence.
+Together, the lab's vision and slogan demonstrate its dedication to making significant contributions to the field of computational biology, with a specific focus on respiratory disease research, single-cell genomics, RNA structure, and the development of RNA therapeutics and stem cell therapies.
+
+Vision：建成世界一流的计算生物学实验室，真正解决生物学、医学的关键性问题。
+	•	以呼吸疾病研究为使命
+	•	以单细胞组学和RNA结构为兴趣
+	•	以计算生物学为手段
+	•	以RNA药物和干细胞疗法为目标
+Slogan: 3R - Responsibility、Reverie、Resilience (使命责任、敢想敢做、坚持努力）
+
+Aims & Lab page
+	•	To achieve international leadership in research areas such as RNA structure prediction and single-cell genomics.
+	•	To publish high-impact scientific papers and secure funding from key projects such as the National Natural Science Foundation.
+	•	To cultivate high-calibre talents, including postdoctoral fellows and PhD students, in order to enhance the laboratory's academic level and influence.
+	•	To facilitate the translation of research outcomes into practical solutions that can effectively address key biological and medical challenges.
+
+	•	在RNA结构预测和单细胞组学等方面取得国际领先水平的研究成果；
+	•	发表高水平SCI论文，争取国家自然科学基金等重点项目资助；
+	•	培养博士后和博士生等高水平人才，提高实验室的学术水平和影响力；
+	•	实现科研成果的转化，真正解决生物学、医学的关键性问题；
+
+Lab page：www.rnacentre.org （可以找到相关方向论文）
+
+1.2 Roles & Expectations 
+Our group consists of Students, Early Career Researchers (ECRs) and Core Staffs. Here, we describe the responsibilities of each role, challenges they may face, what you can expect from them, and in return what they can expect from you. 
+Students 
+Who do we mean? Anyone actively working toward a research degree, including Masters and PhD students, and both university-enrolled and visiting students. 
+Day-to-day: Students are responsible for much of the research in our group. The vast majority of their time is dedicated to their own research project, but they also do other “research adjacent” work. A week typically includes: supervisions, one-to-ones with other group members, general lab meetings, and educational activities. 
+Support for students: Students are trained professionals and their ideas should be taken seriously by the entire group. Students can expect to meet with their supervisors regularly in a supportive environment. They should feel empowered to point out mistakes made by group members or admit when they do not understand something. Supervisors should provide regular feedback and encourage students to develop their own ideas to progress their project. In our group, students will also be given opportunities to: 1. Get access to various research resources; 2. Interact with world-known scientists, or attend international conferences. 
+Expectations of students: Students are an integral part of the wider lab and frequently play a crucial role volunteering to help with tasks the group needs to function. Supervisors can expect students to provide regular updates on their progress, and participate actively in group activities. Students are expected to recognise that their research is a form of training and struggles are a part of the learning process. 
+Students is the beginning stage of scientific research. 
+Bachelor students are expected to stay in the group for more than 3 month and finish a mini project. She/he takes the first flavour of scientific research. Good students will be given the chance for a Master/PhD degree. 
+Master students are expected to start her/his research by mimicking other established work or by supporting the projects from PhD students or postdocs. On graduation, she/he: (1) knows how a research project works; (2) finishes part of a PhD project work and publish the paper on a SCI journal or publish the paper as a co-first author on a decent journal. Good students will be given the chance for a PhD degree. 
+PhD students are expected to have a complete scientific training from conceiving an idea, to coding, to paper writing. On graduation, she/he MUST: (1) have a complete overview of the research field; (2) knows how to play a leading role (first/co-first author) in a research project; (3) finishes the research project and publish the paper on a decent journal (e.g., Nature Communications.); (4) can interact with the research community. The top PhD students may already have achieved (1-3) in their first year. This should also be the aim of all PhD students and pre-PhDs.  
+Challenges: Navigating a first major research project is a difficult task. To be successful, students must also develop “soft skills” including effective communication and time management. Unexpected difficulties are part of the research process - learning how to cope with setbacks takes experience, fortitude, and patience. These stressors can be exacerbated by additional factors throughout the degree, including the isolation of leading a research project, difficulty navigating work-life balance, and distance from long-standing support networks. 
+
+Early Career Researchers (ECRs) 
+Who do we mean? Postdoctoral researchers, Assistant Investigators and Associate Investigators (coPIs)
+Day-to-day: The ECR stage is marked by a transition to increasing independence. ECRs spend the majority of time on their own research, whilst also collaborating on a broader range of projects. ECRs often have several further responsibilities, including sitting on committees, student supervision, and teaching. ECRs may also be asked to stand in for PIs when required, and help with or lead grant applications. 
+Support for ECRs: ECRs can expect senior group members to dedicate time to their career development, alongside practical advice and feedback on their progress. Senior members should create opportunities for ECRs to take on increased responsibility, grow independence, and interact with the wider research community. Where ECRs are involved in supervision, students should take ECR guidance seriously, respect other demands on their time, and ensure their contributions receive appropriate credit. 
+Expectations of ECRs: Having recently navigated a PhD/DPhil themselves, ECRs can provide valuable support to a student’s career development. ECRs often have more time than PIs to guide students in their research, can advocate on a student’s behalf, and often know who to approach when particular issues arise. PIs can expect ECRs to facilitate the dissemination of expertise in the group, and support students by providing crucial constructive feedback. 
+ECRs are expected to develop abilities on 3 aspects: (1) Finish the research project and publish the paper on a decent journal (e.g., Nature Communications.); (2) Play a leading role in a project and guide the team (students, staff); (3) Get external funding support. Postdocs are expected to have at least a decent publication or a funding during the training. Associate Investigators are expected to get funding and publish research works regularly. 
+Challenges: Transitioning to increased independence places considerable responsibility on new ECRs. The role is often accompanied by changes in research group and/or topic, which requires adjustment. ECR positions are inherently transitional, and this stage in a researcher's career is often accompanied by growing personal commitments (e.g., starting a family). Managing a diversifying workload, the uncertainty associated with fixed-term contracts, and reduced supervisory support can be difficult.  
+
+Research Assistants
+Who do we mean? Core Staffs and perspective PhD students (pre-PhDs). 
+Day-to-day: 
+Core staffs are highly trained individuals, often with unique expertise (e.g., data curation, building workflows). When their contributions go beyond what would be considered conventional ‘support’, they should be recognised appropriately (for example, co-authorship on an upcoming publication). Core staffs normally belong to the service team supporting other members in the group. Core staffs also need to get involved in the administrative works. But core staffs are also encouraged to make key contributions in research.
+pre-PhDs are potential candidates to get a PhD degree in the group. pre-PhDs are competing for the PhD admission, so she/he needs to demonstrate the research ability in the group as soon as possible. pre-PhDs should work as hard as PhD students. pre-PhDs need to support the group’s research as well and show their teamwork ability. 
+Expectations of pre-PhDs: pre-PhDs normally need to demonstrate a certain degree of ability before coming to the group. (e.g., ITELS > 6.5 grades, first-author publications). To shorten the competition period, some pre-PhDs need to finish a mini project within 3-4 months. Most pre-PhDs who become a PhD student should finish a manuscript before the start of PhD. 
+ 
+Challenges: pre-PhDs are competing for the PhD admission. PhD admission considers all candidates in a fair way but cannot be controlled by the PIs. The only certain thing is that the PI will be as fair as possible when making the judgement. pre-PhDs need to play a leading role and finish a manuscript ASAP. pre-PhDs can ask all other people in the group for help to accelerate the research progress. 
+1.3 Computational resources
+实验室密码
+	•	职工办公室鹰仕达F栋F713：0123456789#
+	•	网络认证及WiFi：上网认证系统指南v1.006
+
+HPC计算集群+ECS云服务器+Miracle Cloud（所有人注册）：
+广州实验室内部计算集群，免费使用，是优先使用的计算资源
+HPC：将姓名、邮箱、手机号码填写到科研团队与用户申请表 并告知@黄子亮
+Miracle Cloud：将姓名、邮箱、手机号码填写到MiracleCloud科研团队申请表 并告知@方可
+HPC 使用资源参考：
+3.1.新hpc计算集群用户手册（slurm调度系统）.pdf
+3.2.Workshop-1-HPC计算集群培训PPT.pdf
+https://applink.feishu.cn/client/message/link/open?token=AmRmLChShkADZYGcQ4gCgAQ%3D
+
+
+自购工作站：
+	•	14楼工作站：172.19.7.22
+工作站配置为104 CPU，1T内存。存储空间共10T，其中8T为机械硬盘，挂载在 /hdd 目录下，大家尽量将数据放在该目录下。ip目前为：172.19.7.22，大家私聊@黄子亮开通账号密码。
+工作站已配置RStudio server 和jupyterHub，访问http://172.19.7.22:8787/ （RStudio）或者http://172.19.7.22:8000/ （jupyter），输入自己的账户密码即可使用。 此外，为了组内方便使用conda环境，工作站装了公用conda在/home/centos/mambaforge里，进入终端后可以直接使用conda，默认环境安装在/home/centos/mambaforge/envs中，大家都有权限进行安装、修改和使用环境。请大家按照环境和修改时稍微留意一下，以免破坏环境。 如果大家需要自己使用环境，可以在新建conda环境时指定路径为自己目录，或者另外安装conda到自己的home目录。
+	•	15楼工作站：172.19.7.77，配置与14楼的一致。
+	•	3楼GPU服务器：10.11.11.51和10.11.11.52，三张H800显卡，储存空间不多，尽量将数据放在上面两个工作站或者HPC中。
+
+曙光智算(CPU)&并行云(GPU)账号：
+外部购买云计算资源，主要针对课题研究中需要大规模数据下载或者GPU计算的情况
+请使用联系@石姚黄@黄子亮@蒋玖宏并填写曙光智算使用情况表 
+
+百度网盘VIP：
+	•	团队百度网盘账号
+科学上网（VPN）购买链接：
+	•	较稳定：https://shandianpro.com/#/register?code=F0zVxy5J
+	•	较优惠但有时不太稳定：https://xn--30rs3bu7r87f.online/#/register?code=em06RgWh
+文献访问
+通过零信任服务实现在单位外部一样访问文献资源及aop广州实验室零信任登录说明v.1.02
+
+搭建conda和jupyter计算环境
+	•	Link to HPC: HPC服务器环境搭建 HPC_installed
+	•	Link to ECS: ECS服务器环境搭建
+	•	Set up Jupyter Notebook: HPC 使用 Jupyter Notebook 
+	•	Basic Tutorials: Single-cell preliminary tutorial
+
+Single-cell course: (single-cell group MUST learn the course) https://www.ebi.ac.uk/training/materials/single-cell-rna-seq-network-analysis-using-galaxy-and-cytoscape-materials/course-content/
+A cheet approach by chatGPT: https://www.youtube.com/watch?v=fkuLFlC2ZWk&t=878s
+
+1.4 Group Meeting, Journal club, Work report
+Basic Rules
+	•	考勤：无时间考勤，但有课题进度考勤。课题关键时候需要加班。
+	•	参照国际惯例，早上开始工作时在飞书群签到“morning!”，表示自己已经处于工作岗位，方便同学们可以随时找到自己。
+	•	工作时间要保证及时回复消息、按时完成工作任务（建议在飞书给自己设置DDL提醒）。
+	•	参考生物岛其他科研单位情况工作时间在280-460小时/月，博士和博后的工作时间应达到每月240个小时以上。
+	•	工作人员按照广州实验室工作制度安排，保证每天8小时工作时间，一般不要求加班。
+	•	沟通交流：有团队意识，主动沟通。邮箱是所有通讯中优先级最高的联系方式 （高于飞书和微信），大家需要在电脑和手机上设置邮件接收，确保实时收到邮件。
+	•	保密要求：给实验室之外的人发送数据和代码，必须要经过老师确认以后才可以发。
+	•	投稿要求：论文投稿、摘要投稿、墙报投稿，必须要经过老师确认以后才可以发。
+	•	礼貌要求：线上参加实验室任何会议，须打开摄像头，关闭摄像头需说明情况（例如，学校上课、路上开车、在吃东西）。
+	•	软件环境要求：实验室禁用WPS，学生、博后的电脑必须要用英文操作系统。
+
+Group Meeting
+	•	组会为交流课题进度，讨论需要解决的问题和下一步的研究方向。
+	•	周一中午2点开始每周组会，每位同学每个月有一次展示机会。
+	•	学生和博后需要用英文做ppt和报告，工作人员用英文做ppt可以用英文或者中文做报告。
+Group Report Template：template.pptx 
+Group Meeting Schedule：GroupMeeting schedule
+
+Literature Sharing
+	•	文献阅读是追踪科研前沿、保持课题先进性、了解领域前沿发展的主要途径
+	•	学生和博士后每周需要阅读5-10篇论文，并且把阅读的论文在飞书群内分享给大家。
+	•	文献阅读四要素：journal、title、research group、discovery
+Journal Club
+	•	Journal club为了了解领域内的进展，为自己的课题开展启发研究思路，通过讨论帮助确定研究方向
+	•	周五早上9点进行文献讨论。
+	•	负责本周文献讨论的同学周一晚上6点前将计划讨论的文献以pdf的格式发给大家。
+	•	文献阅读四要素：journal、title、research group、discovery
+	•	例子，大家好，今天跟大家分享一篇近期发表在 Cell [journal]上的文章，文章的题目[title]是“Dietary tryptophan metabolite released by intratumoral Lactobacillus reuteri facilitates immune checkpoint inhibitor treatment”，本文的通讯作者是来自美国匹兹堡大学医学院的 Marlies Meisel[research group]。这篇文章的核心是作者们发现[discovery]，益生菌 L. reuteri 能够特异地迁移并“寄生”在黑色素瘤中，并且通过释放代谢物，助力免疫检查点抑制剂的治疗。
+Journal club Schedule：GroupMeeting schedule
+
+Team-wise Discussion
+	•	小组会为了增加小组内部交流和技术交流。讨论分享技术问题，讨论想做的课题方向和可能的方案，讨论每个人需要解决的问题。
+	•	周四开展小组讨论，RNA小组和单细胞图谱小组分别每两周开会一次。
+
+Weekly Report
+	•	Weekly Report作为实验记录，记录每天的工作、原始实验结果、遇到的问题、对实验结果的思考、下一步的实验计划 （要求每天写实验记录，学生每天至少花半个小时写实验记录，抽查不合格需要重写，一周整理）
+	•	每周日晚6点前提交个人周报至老师邮箱并抄送科研助理和各组组长（单细胞组黄良凤huang_liangfeng@gzlab.ac.cn; RNA组石姚黄shi_yaohuang@gzlab.ac.cn），并抄送老师邮箱（miao_zhichao@gzlab.ac.cn）和科研助理（yang_zhuoran@gzlab.ac.cn）。
+周报模版：Weekly Report Template 
+1.5 Research Proposal and Paper drafting
+Research Proposal
+	•	Research Proposal为开展研究指明目标和方向，是研究开题的重要步骤，是研究论文的前提。
+	•	同学们在google docs里面写Research Proposal，然后把链接分享给老师。
+Research Proposal Template: Research Proposal Template
+List of Research Proposals: List of Research Proposals
+
+ Paper Writing
+	•	Paper writing serves as the ultimate showcase and primary indicator of research achievements, representing the author's contribution to the field and their research proficiency.
+	•	Preparing a manuscript includes the files: 1. MS (manuscript); 2. Figures in a folder; 3. Cover letter; 4. Supplementary Information. 
+Paper Writing Template: Paper Writing Template
+Supplementary Information Template: Supplementary Information Template
+Rebuttal Template: Rebuttal Template
+文档需要注意字体、标题。使用paperpile插入文献。
+2. Guangzhou Laboratory info & rules (广州实验室相关信息)
+2.1 入职手续
+工作邮箱、AOP账号会在办理入职一周后由人事部袁老师发放
+	•	工作邮箱登陆地址 exmail.qq.com 初始密码：GZswd#手机号后四位（后续可自行绑定微信扫描登陆）、工作相关内容尽量使用工作邮箱发送
+	•	AOP系统登陆操作指南：广州实验室AOP注册登录说明v.1.15
+	•	工卡可以前往标四A栋一楼物业中心签名领取、工作合同一个月左右可领取
+	•	课题组网站维护更新
+	•	入职后请填写新成员入职信息统计模版（用于更新网站）发送给@方可
+2.2 薪水和绩效
+	•	薪资严格保密，私下讨论薪资会给予处分。
+	•	有论文发表者可申请优秀和良好，无论文发表当年若无特殊情况则为基本合格。
+	•	发表论文给予一定奖励，奖励亦可为一次国内外参会的机会。
+	•	连续两次年终考核合格或者一次优秀，可以申请调薪。
+	•	优秀比例不超过考核人数的10%，通过课题组内部公平公正评价给定。
+	•	每季度进行一次组内考核，优秀成员给予一定的奖励。
+2.3 社保公积金
+	•	如没有在广州办理过社保卡（社会保障卡），可以下载“穗好办APP”或“广东人社APP”在线申领（已办理过社保卡的可以忽略）为方便取卡可选择中国银行生物岛支行
+	•	流程：登陆“穗好办app”-下方办事-社保专栏-社会保障卡申领-后续按步骤操作。
+	•	可在微信小程序“我的医保凭证”查询医保卡情况
+	•	关注“广州住房公积金管理中心微信公众号”查询公积金缴存变动情况
+2.4 请假
+按照广州实验室规定执行：
+	•	请假半天以上，说明原因和请假时间，必须在AOP系统提交申请，经批准以后才可离岗。
+	•	请假半天，需要联系老师和助理，说明原因和请假时间，经批准以后才可离岗，并且在本周内补齐工作时间。
+	•	研究实习员在实习期没有假期，如有请假情况，需要在转正以后扣除相应的年假时间。
+	•	实习生需在每月18号提交个人考勤表，方便统计工资发放。
+	•	博士硕士休假期间不发放助学金。
+2.5 采购
+由于报销流程较复杂，采购相关事务全部交给科研助理解决，可在每个月第一次组会提出购买需求，经老师同意后进行统一采购。
+2.6 交通
+B2与标四A栋、B栋之间有接驳车（外表与观光车相似）
+B2-标四上车地点：B2侧马路边
+标四-B2上车地点：A栋出口马路边/展厅门口
+
+
+无人巴士：B2-官洲地铁站B口
+APP下载WeRide Go：生物岛南线（南门上车-地铁口下车）
+无需预约
+
+
+无人巴士：标四-官洲地铁站A口
+微信小程序智联巴士：生物岛1号线（广州实验室站上车-地铁口下车）
+需要预约
+
+
+公交车353
+票价1元，在星汉大道站上车（地图搜索），水墨园站下车。公交车车次、发车时间等可以在微信小程序“车来了”中搜索。
+
+
+如未在接驳车运行时间段，但需要从B2办公楼至标四 ，可先在WeRide Go确定第一程无人巴士时间（15min每趟）至官洲地铁站B口下车。过马路至地铁站A口后，在智联巴士预约第二程到广州实验室站的车票。全程预计耗时25-30分钟左右，请大家合理安排出行时间。
+2.7 生活须知
+1、生物岛全攻略（请大家自助查询，和组内同学积极交流，科研助理不再负责介绍）。
+
+关注“广州国际生物岛”微信公众号，点击“便民服务”-“岛游Biotour”可查询以上相关服务的店铺地址及营业时间。
+2、办公楼附近介绍。
+
+
+1.宿舍位于国际公寓B4栋，有两个出入口。左侧入口有快递&外卖架。
+2.办公室位于鹰仕达F栋7层，快递接收地址同。
+3.办公室11楼设有健身房，配备多种健身器材，满足不同的锻炼需求。羽毛球场、乒乓球场、瑜伽舞蹈室（F栋1105）、保健室（F栋1103）、台球室（F栋1203）、母婴室（E栋216）、食堂等，可在非工作时间前往。
+3.云润大厦右侧有喜士多便利店，JenHouse咖啡店；前面全家便利店。
+   生物岛B1栋一层有牛小匠火锅店，瑞幸咖啡；二层，湘语鱼头。官洲地铁口A口有麦当劳、星巴克、7-11、中国银行分理处等。（可搭乘实验室小巴前往）
+  如需购买其他生活物资、订餐等，可找已入职的同事进群（美团优选、小袁水果、小洲村猪脚饭、广实订饭群、满口香）；
+  标四食堂可凭认证享受广实食堂优惠价。（关注微信公众号广州实验室职工食堂每两周更新菜单）
+4、停车需从A栋进入地下停车场，凭工牌可享受免费停车。
+
